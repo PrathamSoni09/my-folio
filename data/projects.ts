@@ -3,7 +3,7 @@ export interface Project {
   description: string;
   image: string;
   links: {
-    type: 'github' | 'demo' | 'behance' | 'youtube' | 'live' | 'download' | 'custom';
+    type: 'github' | 'demo' | 'behance' | 'youtube' | 'live' | 'download' | 'custom' | ";
     url: string;
     label?: string;
     icon?: string;
