@@ -2,7 +2,7 @@ export interface Skill {
   name: string;
   icon: string;
   progress: number; // 0 to 100
-  category: 'technical' | 'design' | 'software' | 'soft';
+  category: 'code' | 'design' | 'video' | 'soft' | '3D' | 'AR';
 }
 
 export const skills: Skill[] = [
