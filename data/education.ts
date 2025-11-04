@@ -30,7 +30,7 @@ export const education: Education[] = [
 			"Web Development",
 			"Computer Graphics",
 			"Artificial Intelligence",
-		]
+		],
 		achievements: [""],
 		icon: "🎓",
 	},
