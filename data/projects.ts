@@ -15,7 +15,7 @@ export interface Project {
   featured?: boolean;
   inProgress?: boolean;
   completionDate?: string;
-  category: 'design' | 'development' | '3d' | 'animation' | 'other';
+  category: 'design' | 'development' | '3d' | 'animation' | 'other' | 'AR Experience';
 }
 
 export const projects: Project[] = [
